@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1195" height="795" viewBox="25 230 1195 795" fill="none">
+  <title>ARTOMET — serwis medyczny</title>
+  <defs>
+    <linearGradient id="right" x1="669" y1="275" x2="932" y2="757" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#075B54"/><stop offset=".45" stop-color="#1B998B"/><stop offset="1" stop-color="#098C80"/>
+    </linearGradient>
+    <linearGradient id="front" x1="562" y1="256" x2="367" y2="695" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2DBAA9"/><stop offset=".53" stop-color="#1B998B"/><stop offset="1" stop-color="#138F83"/>
+    </linearGradient>
+    <linearGradient id="orbit" x1="376" y1="704" x2="913" y2="412" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#007A71"/><stop offset=".62" stop-color="#1B998B"/><stop offset="1" stop-color="#00958B"/>
+    </linearGradient>
+    <linearGradient id="cross" x1="563" y1="504" x2="741" y2="631" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#078D82"/><stop offset="1" stop-color="#1B998B"/>
+    </linearGradient>
+  </defs>
+  <g id="symbol">
+    <path fill="url(#orbit)" d="M774 402 C797 391 823 385 846 384 L854 397 C824 393 801 399 780 410 Z"/>
+    <path fill="url(#right)" d="M612 331 C623 290 655 251 690 250 C719 247 732 272 746 305 L960 770 L841 770 C823 770 818 765 810 750 L760 645 L828 556 C791 497 752 458 708 431 C669 407 636 391 621 357 C617 348 614 339 612 331 Z"/>
+    <path fill="#2CB7A8" d="M847 572 L912 693 L865 582 L860 563 Z"/>
+    <path fill="url(#cross)" d="M616 489 Q616 463 642 463 H683 Q712 463 712 490 V530 Q712 536 718 536 H752 Q779 536 779 563 V575 Q779 584 770 592 C726 625 673 651 617 674 V638 Q617 626 605 626 H567 Q548 626 548 605 V563 Q548 536 575 536 H607 Q616 536 616 527 Z"/>
+    <path fill="url(#front)" d="M343 695 L529 296 C542 266 563 249 592 249 H689 C660 249 645 285 629 322 L541 527 C511 566 462 587 415 629 C382 658 360 680 343 695 Z"/>
+    <path fill="url(#orbit)" d="M541 527 L452 729 C566 711 699 658 791 595 C850 555 887 512 902 469 C911 442 906 421 884 410 L890 389 C930 404 945 429 931 472 C914 525 866 572 804 617 C705 687 561 740 453 757 C406 764 368 763 350 745 C336 731 338 712 343 695 C360 672 386 649 415 629 C459 591 510 565 541 527 Z"/>
+    <circle cx="864" cy="390" r="30" fill="#079C91"/>
+  </g>
+  <g id="wordmark" fill="#1B998B" aria-label="ARTOMET">
+    <path d="M42 1006 L116 863 C127 839 155 840 168 863 L241 1006 H207 Q197 1006 191 994 L142 897 L92 994 Q87 1006 75 1006 Z"/>
+    <path d="M250 1006 V869 Q250 845 274 845 H333 C375 845 401 865 401 899 C401 925 383 945 355 951 L401 1006 H357 L307 950 C294 936 299 921 320 921 H331 C350 921 362 914 362 901 C362 887 351 879 332 879 H287 V1006 Z"/>
+    <path d="M410 879 V867 Q410 845 435 845 H538 V879 H493 V1006 H454 V879 Z"/>
+    <path fill-rule="evenodd" d="M629 844 C680 844 720 879 720 927 C720 976 681 1010 629 1010 C577 1010 538 976 538 927 C538 879 577 844 629 844 Z M629 879 C599 879 576 899 576 928 C576 957 599 979 629 979 C660 979 683 957 683 928 C683 899 660 879 629 879 Z"/>
+    <path d="M736 1006 V869 C736 844 762 836 778 856 L826 921 L874 858 C889 837 915 842 915 869 V1006 H876 V910 L843 957 C833 973 820 976 808 960 L773 911 V1006 Z"/>
+    <path d="M1064 1006 H961 Q935 1006 935 982 V869 Q935 845 960 845 H1058 V879 H973 V911 H1046 V925 Q1046 946 1025 946 H973 V973 H1064 Z"/>
+    <path d="M1071 879 V868 Q1071 845 1095 845 H1204 V879 H1154 V1006 H1115 V879 Z"/>
+  </g>
+</svg>
